@@ -1,0 +1,45 @@
+img{
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+}
+h1{
+    text-align: center;
+    font-family: "Alfa Slab One", serif;
+    color: aliceblue;
+    font-weight: 300;
+}
+a{
+    font-family: "Anta", sans-serif;
+    color: aliceblue;
+    text-decoration: none;
+    display: inline-block;
+        line-height: 40px;
+    border: 1px solid rgba(255, 255, 255, 0.496);
+    border-radius: 10px;
+    padding: 0 20px;
+}
+a:hover{
+border: 1px solid white;
+}
+h2{
+    font-family: "Days One", sans-serif;
+    color: aliceblue;
+}
+body{
+    background-color: rgb(179, 228, 218);
+    background: rgb(17,66,159);
+background: linear-gradient(196deg, rgba(17,66,159,1) 0%, rgba(59,218,197,1) 49%, rgba(0,212,255,1) 100%);
+text-align: center;
+}
+div{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.328);
+    width: 27%;
+    display: inline-block;
+    /* The margin gives space outside the cards */
+    margin: 5px;
+    padding: 8px;
+}
+
+/* add three more anime */
+
